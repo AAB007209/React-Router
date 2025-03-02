@@ -3,7 +3,7 @@ This Repository Contains information all about React Router
 
 ## List of Concepts
 
-1. React Routing
+1. [React Routing](https://github.com/AAB007209/React-Router/edit/master/README.md#1-react-routing)
    
 2. Link Tag 
    
@@ -367,14 +367,14 @@ npx json-server —watch data.json —port 5000
         }
         
         export default JobsLayout;
-    ```
-    
-    4. In App.jsx we will just use this new Route for Jobs and in the Route we need to mention this loader function for sure.
-```jsx
-        <Route path='jobs' element={<JobsLayout />}>
-            <Route index element={<Jobs />} loader={jobsLoader} />
-        </Route>
-```
+       ```
+
+   4. In App.jsx we will just use this new Route for Jobs and in the Route we need to mention this loader function for sure.
+      ```jsx
+              <Route path='jobs' element={<JobsLayout />}>
+                  <Route index element={<Jobs />} loader={jobsLoader} />
+              </Route>
+      ```
         
     
 
