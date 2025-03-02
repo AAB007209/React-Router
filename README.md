@@ -3,23 +3,15 @@ This Repository Contains information all about React Router
 
 ## List of Concepts
 
-1. [React Routing](https://github.com/AAB007209/React-Router?tab=readme-ov-file#1-react-routing)
-   
-2. Link Tag 
-   
-3. NavLink Tag
-   
-4. UseNavigate Hook
-   
-5. Nested Routes
-   
-6. Custom 404 Page
-   
-7. React Router Loader
-   
-8. Route Parameters and Dynamic Routing
-   
-9.  React Router Error Element
+1. [React Routing](#1-react-routing)
+2. [Link Tag](#2-link-tag)  
+3. [NavLink Tag](#3-navlink-tag)
+4. [UseNavigate Hook](#4-usenavigate-hook)  
+5. [Nested Routes](#5-nested-routes) 
+6. [Custom 404 Page](#6-custom-404-page) 
+7. [React Router Loader](#7-react-router-loader)  
+8. [Route Parameters and Dynamic Routing](#8-route-parameters-and-dynamic-routing)  
+9. [React Router Error Element](#9-react-router-error-element)
 
 ## 1. React Routing
 
