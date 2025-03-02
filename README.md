@@ -3,7 +3,7 @@ This Repository Contains information all about React Router
 
 ## List of Concepts
 
-1. [React Routing](https://github.com/AAB007209/React-Router/edit/master/README.md#1-react-routing)
+1. [React Routing](https://github.com/AAB007209/React-Router?tab=readme-ov-file#1-react-routing)
    
 2. Link Tag 
    
