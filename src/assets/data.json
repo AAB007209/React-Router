@@ -1,0 +1,39 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Sr. React Developer",
+            "salary": 50000,
+            "location": "London UK",
+            "description": "We are looking for a talented and experienced Sr. React Developer to join our dynamic team in London, UK. In this role, you will be responsible for building and maintaining high-quality, responsive web applications using React.js. You will collaborate with cross-functional teams to deliver innovative solutions and contribute to the overall success of our projects"
+        },
+        {
+            "id": 2,
+            "title": "Frontend Developer",
+            "salary": 40000,
+            "location": "San Francisco US",
+            "description": "We are seeking a skilled Frontend Developer to join our team in San Francisco. The ideal candidate will have experience in building responsive and user-friendly web applications using HTML, CSS, and JavaScript frameworks like React or Vue.js. You will collaborate closely with designers and backend developers to deliver high-quality products. If you are passionate about creating seamless user experiences, we’d love to hear from you!"
+        },
+        {
+            "id": 3,
+            "title": "Full Stack Developer",
+            "salary": 60000,
+            "location": "Bangalore IN",
+            "description": "We are looking for a talented Full Stack Developer to join our team in Bangalore. You will be responsible for developing and maintaining web applications using frontend technologies like React and backend frameworks like Node.js. The ideal candidate should have experience with databases, RESTful APIs, and full-cycle application development. Join us to work on exciting projects and advance your career!"
+        },
+        {
+            "id": 4,
+            "title": "Product Manager",
+            "salary": 90000,
+            "location": "Los Angeles US",
+            "description": "We are seeking an experienced Product Manager to lead product strategy and execution in Los Angeles. You will work closely with cross-functional teams to define product vision, drive development, and ensure successful delivery. The ideal candidate should have strong leadership skills, a strategic mindset, and a proven track record in product lifecycle management. Join us to shape innovative products and make a real impact!"
+        },
+        {
+            "id": 5,
+            "title": "UI Developer",
+            "salary": 40000,
+            "location": "Mumbai IN",
+            "description": "We are looking for a creative and detail-oriented UI Developer to join our team in Mumbai. You will be responsible for designing and implementing user interfaces that provide an exceptional user experience. The ideal candidate should have strong skills in HTML, CSS, JavaScript, and experience with design tools and UI frameworks. If you are passionate about creating visually appealing and user-friendly interfaces, we'd love to meet you!"
+        }
+    ]
+}
